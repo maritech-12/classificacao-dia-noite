@@ -31,7 +31,6 @@ Este projeto faz parte das atividades do processo seletivo que fiz na **RAIA Fel
 
 ---
 
----
 
 ## - Dataset
 
@@ -90,6 +89,3 @@ Estudante de Análise e Desenvolvimento de Sistemas PucPr
 
 GitHub: https://github.com/maritech-12
 Linkedin: https://www.linkedin.com/in/maria-eduarda-gomes-dos-santos-
-
-## 📂 Estrutura do Projeto
-
