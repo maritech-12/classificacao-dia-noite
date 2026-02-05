@@ -15,7 +15,7 @@ Utilizando técnicas de Machine Learning em Python.
 
 Desenvolver um modelo capaz de identificar automaticamente se uma imagem foi tirada durante o dia ou à noite, a partir de suas características visuais.
 
-Este projeto faz parte das atividades práticas da **RAIA Fellowship**.
+Este projeto faz parte das atividades do processo seletivo que fiz na **RAIA Fellowship**.
 
 ---
 
