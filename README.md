@@ -31,13 +31,6 @@ Este projeto faz parte das atividades do processo seletivo que fiz na **RAIA Fel
 
 ---
 
-## - Estrutura do Projeto
-classificacao-dia-noite
-├── classificacao_dia_noite.ipynb
-├── classificacao_dia_noite.csv
-└── README.md
-
-
 ---
 
 ## - Dataset
